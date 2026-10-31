@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RA Player</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Search videos</string>
+    <string name="no_videos">No videos found on this device</string>
+    <string name="permission_explain">RA Player needs access to your videos to show them here.</string>
+    <string name="allow_access">Allow access</string>
+
+    <string name="open_stream">Open network stream</string>
+    <string name="open_file">Open file…</string>
+    <string name="stream_hint">https://…/video.mp4 or .m3u8</string>
+    <string name="play">Play</string>
+    <string name="bad_url">Enter a link that starts with http://, https:// or rtsp://</string>
+
+    <string name="sort_newest">Sort: newest first</string>
+    <string name="sort_name">Sort: name</string>
+    <string name="sort_size">Sort: size</string>
+    <string name="sort_duration">Sort: duration</string>
+
+    <plurals name="video_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
+    </plurals>
+
+    <string name="back">Back</string>
+    <string name="add_subtitles">Add subtitle file</string>
+    <string name="lock_screen">Lock controls</string>
+    <string name="unlock_screen">Unlock controls</string>
+    <string name="unlock_to_exit">Unlock the screen to exit</string>
+    <string name="rotate">Rotate screen</string>
+    <string name="aspect_ratio">Change aspect ratio</string>
+    <string name="pip">Picture in picture</string>
+    <string name="pip_unsupported">Picture in picture isn\'t available on this device</string>
+    <string name="loop_ab">Repeat a section (A-B)</string>
+
+    <string name="resumed_at">Resumed at %s</string>
+    <string name="volume_pct">Volume %d%%</string>
+    <string name="brightness_pct">Brightness %d%%</string>
+    <string name="loop_a_set">A set at %s</string>
+    <string name="loop_on">Looping %1$s – %2$s</string>
+    <string name="loop_off">Loop off</string>
+    <string name="loop_b_later">Move forward, then tap again to set the end point</string>
+    <string name="subtitle_loaded">Subtitles loaded: %s</string>
+    <string name="subtitle_unsupported">Use a .srt, .vtt, .ass, .ssa or .ttml subtitle file</string>
+    <string name="playback_error">Can\'t play this video (%s)</string>
+</resources>
